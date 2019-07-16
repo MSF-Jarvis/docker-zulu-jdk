@@ -28,3 +28,5 @@ Available flavors:
 
 - [![](https://images.microbadger.com/badges/version/msfjarvis/docker-zulu-jdk:ubuntu-jdk-12.svg)](https://microbadger.com/images/msfjarvis/docker-zulu-jdk:ubuntu-jdk-12)
 [![](https://images.microbadger.com/badges/image/msfjarvis/docker-zulu-jdk:ubuntu-jdk-12.svg)](https://microbadger.com/images/msfjarvis/docker-zulu-jdk:ubuntu-jdk-12)
+
+Latest build: *Wed Jul 17 02:57:19 IST 2019*
